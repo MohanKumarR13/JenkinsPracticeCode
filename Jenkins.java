@@ -4,7 +4,7 @@ public class Jenkins {
 		System.out.println("Study");	
 		System.out.println("Salary");
 		System.out.println("Amont");
-		System.out.println("Expenses");
+		System.out.println("Expenses") ;
 			
 		
 }
